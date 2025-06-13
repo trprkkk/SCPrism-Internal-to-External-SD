@@ -1,0 +1,6 @@
+id=SCPrism_External
+name=SCPrism-Internal-to-External-SD
+version=1.0.2
+versionCode=3
+author=kkk
+description=Bind the SHINY COLORS Song for Prism game data from the internal SD to the external SD.

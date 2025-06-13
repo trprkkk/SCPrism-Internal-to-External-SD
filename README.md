@@ -1,2 +1,2 @@
 # SCPrism-Internal-to-External-SD
-SHINY COLORS Song for Prism gamedata bind Internal SD to External SD
+Bind the SHINY COLORS Song for Prism game data from the internal SD to the external SD.

@@ -6,4 +6,4 @@ Required: Magisk or KernelSU etc.
 For newer Android devices, you may need an sdcard access enabler.
 
 https://github.com/Magisk-Modules-Alt-Repo/kaina
-https://github.com/Magisk-Modules-Repo/ExSDCard/
+  https://github.com/Magisk-Modules-Repo/ExSDCard/
